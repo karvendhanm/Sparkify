@@ -12,7 +12,7 @@ Predicting customer churn for a music streaming service called Sparkify using Bi
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the libraries preinstalled in Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*. Following are the libraries used in this project.
+This project uses the following software and Python libraries:
 
 1. Python
 2. Pyspark
