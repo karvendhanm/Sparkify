@@ -28,24 +28,22 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Stack Overflow data from 2014 to 2018 to better understand:
+For this project, I was interested in predicting customer churn for a music streaming service called Sparkify.
 
-1. Which country offers the best standard of living for a software developer?
-2. If a developer codes as a hobby, does it have a positive influence on his remuneration?
-3. Why developers start actively looking for a new job. Does it have anything to do with their compensation in the present job?
-4. Do data scientist earn more than non data scientists on average?
-5. Do data scientists earn more on average than non data scientists in all top ten economies?
+1. To predict churn by building three different ML models and picking the best one.
+2. To identify features that strongly contribute to user churn and suggest remedial measures.
 
 
 ## File Descriptions <a name="files"></a>
 
-* Sprakify .ipynb Main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
+* Sprakify .ipynb is the main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
+* medium-sparkify-event-data.7z contains the data used for this project.
 
 ## Results<a name="results"></a>
 
 According to the results of the model, it is the advertisement played while the user is a free subscriber contributes the most to customer churn. 
 
-You could find more details and visuals at the medium blog post available [here](https://medium.com/@karvsmech/understanding-customer-churn-2a07a639720f).
+You could find more details and visuals at my medium blog post available [here](https://medium.com/@karvsmech/understanding-customer-churn-2a07a639720f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
