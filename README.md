@@ -23,7 +23,7 @@ This project uses the following software and Python libraries:
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. And for Spark, you can do this using AWS or IBM Cloud.
+If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. And for Spark, you can do this using AWS or IBM Watson. I have used IBM Watson.
 
 
 ## Project Motivation<a name="motivation"></a>
